@@ -26,3 +26,9 @@ The application can compute and display the following metrics and sequences from
 3. **View Results In Console:** The app will also display the results to console, including the maximum, minimum, median, mean values, and the number of the longest increasing and decreasing sequences and sequences themselves, time needed to process data (without time needed to read the file), and number of elements in the file.
 
 ![Result in console](https://drive.google.com/uc?export=view&id=11qHswoEukXEx5582UxKY8tocvadUE79j)
+
+## Important notice
+For proper app operation the file should include one numerical value per line without white spaces or any other texts.
+Example:
+
+![file content example](https://drive.google.com/uc?export=view&id=1AtqUpHG7JaraN3rsOeCNHDmQR12r_Juq)
